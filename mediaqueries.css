@@ -298,9 +298,8 @@
         place-items: center;
     }
     
-    .acc-icon{
-   
-        right: -19px;
+    .acc--icon{
+        right: -12px;
         position: absolute;
         width: 16px;
         margin-top: -23px;
