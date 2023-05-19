@@ -53,7 +53,7 @@ body{
     width: 520px;
     height: 140px;
 
-    font-family: 'Roboto';
+    font-family: Roboto;
     font-style: normal;
     font-weight: 400;
     font-size: 18px;
@@ -93,7 +93,7 @@ body{
 }
 
 #header-logo{
-    padding: 20px 160px 50px;
+    padding: 20px 160px 50px 0;
 }
 /*-----------------------------------------------------*/
 
@@ -146,6 +146,16 @@ body{
     margin-left: 40px;
 }
 
+#mid-subtitle{
+    
+font-family: Space Grotesk;
+font-size: 24px;
+font-weight: 700;
+line-height: 32px;
+letter-spacing: 0em;
+text-align: left;
+
+}
 
 .main-row{
     display: flex;
@@ -244,7 +254,7 @@ body{
 .middle-subtitle{
     width: 520px;
 
-    font-family: 'Roboto';
+    font-family: Roboto;
     font-style: normal;
     font-weight: 400;
     font-size: 18px;
